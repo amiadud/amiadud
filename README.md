@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sopnil-ali-008987109/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/cse.wadud" target="_blank">
