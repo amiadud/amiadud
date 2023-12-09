@@ -23,11 +23,11 @@
 I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
 
 # ✔️ Overview:
- * 🌱 I’m exploring - MERN Stack
+ * 🌱 I’m exploring - Front End
+ * 💬 Ask me about - Anything related that front end development, I am always keep up for tech.
  * ⚡ Fun fact - I love to make complex origami and I can speak three languages
  * 🤔 I'm trying - To learn data structure and many algorithms
  * 🤝 I’m looking for help with my some project
-
 
  # ⭐ Reach me
 
@@ -44,7 +44,7 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=amiadud&theme=merko&hide_border=true)" />
 
-# 🔥 My Github Profile Stats 
+# 📚 My Github Profile Stats 
 <div align="center">
 
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiadud&theme=dracula" />
