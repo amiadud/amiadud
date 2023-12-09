@@ -47,15 +47,14 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
 # 🔥 My Github Profile Stats 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amiadud&show_icons=true&theme=radical" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiadud&theme=dracula" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amiadud&theme=dracula" />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiadud&&theme=radical&layout=compact" width="32%" alt="Top Langs" width="400" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiadud&theme=radical" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiadud&theme=radical" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiadud&theme=dracula&utcOffset=8" />
 
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiadud&theme=radical&hide_border=true"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiadud&theme=radical" />
 </div>
