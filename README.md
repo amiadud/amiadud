@@ -36,7 +36,7 @@ I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML,
  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sopnil-ali-008987109/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
+<a href="https://www.linkedin.com/in/md-abdul-adud-13935a2a4/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
 
 </div>
 
