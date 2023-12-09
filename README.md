@@ -1,5 +1,7 @@
 
+<div align="center">
 <img src="./images/github-banner.png" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sopnil-ali-008987109/" target="_blank">
@@ -22,8 +24,8 @@
 
 I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
 
-# ✔️ Overview:
- * 🌱 I’m exploring - Front End
+# 🎯 Overview
+ * 🌱 I’m exploring - Front End Development
  * 💬 Ask me about - Anything related that front end development, I am always keep up for tech.
  * ⚡ Fun fact - I love to make complex origami and I can speak three languages
  * 🤔 I'm trying - To learn data structure and many algorithms
