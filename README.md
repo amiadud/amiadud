@@ -1,5 +1,5 @@
 
-<img src="./images/github banner.png" />
+<img src="./images/github-banner.png" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sopnil-ali-008987109/" target="_blank">
@@ -16,33 +16,48 @@
   </a>
 </div>
 
-# Overview:
+<h1 align="center">Hey there 👋</h1>
+
+# 👩‍💻About me
+
+I am front end Developer. My Development skilled in Mongodb, tailwind CSS, HTML, CSS, Node.js, and firebase. I do web applications efficiently.
+
+# ✔️ Overview:
  * 🌱 I’m exploring - MERN Stack
  * ⚡ Fun fact - I love to make complex origami and I can speak three languages
  * 🤔 I'm trying - To learn data structure and many algorithms
  * 🤝 I’m looking for help with my some project
 
- # Reach me
+
+ # ⭐ Reach me
 
 <a href="https://www.linkedin.com/in/sopnil-ali-008987109/"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a/>
 
- # My Skill
+ # 💻 My Skill
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongo,react,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express" />
 
 </div>
 
-# My Status
-<div align="center">
+# 🔥 My Github Activity Streak
+
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=amiadud&theme=merko&hide_border=true)" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=amiadud&show_icons=true&theme=radical" />
+# 🔥 My Github Profile Stats 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amiadud&show_icons=true&theme=radical" />
 
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiadud&&theme=radical&layout=compact" width="32%" alt="Top Langs"  />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiadud&&theme=radical&layout=compact" width="32%" alt="Top Langs" width="400" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiadud&theme=radical" width="400"/>
 
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiadud&theme=radical&hide_border=true"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiadud&theme=radical" />
+</div>
 
 <div/>
